@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Rubik+Moonrocks&display=swap');
+
+body{
+    background: url(/Desktop.png) no-repeat center center fixed;
+    background-size: cover;
+    background-color: red;
+
+    
+}
+
+
+h1{
+    font-family: 'Rubik Moonrocks', cursive;
+    margin: 69px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.youtube{
+height: 315px;
+width: 560px;
+box-shadow: 14px 16px 18px -10px rgba(82,82,82,1);
+}
+
+
